@@ -4,5 +4,6 @@ numpy
 pymongo
 certifi
 dotenv
+scikit-learn
 
 #-e . #TODO
